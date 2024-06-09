@@ -1,0 +1,4 @@
+
+public interface Comaparator<T> {
+
+}
